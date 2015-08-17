@@ -1,6 +1,14 @@
 # Browser Request: A fork from browser-request
 
-## (prelim version) Documentation to be added
+## Changes 
+Added 
+
+  -progress callback functions
+  
+  -binary buffer transmission
+  
+  -support for multipart file transmission
+  
 
 Browser Request is a port of Mikeal Rogers's ubiquitous and excellent [request][req] package to the browser.
 
